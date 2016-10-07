@@ -7,5 +7,8 @@ Breadboards,
 
 Avery 5160 Compatible:
 LEDs,
-SPST Toggle Switch
+SPST Toggle Switch,
+LED Schematic,
+Diode Schematic,
+Resistor
 
